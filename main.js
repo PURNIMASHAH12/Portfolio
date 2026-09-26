@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════
-   RAM PORTFOLIO — main.js
+   Purnima PORTFOLIO — main.js
    Three.js scenes + all interactivity
 ═══════════════════════════════════════════════════════ */
 
@@ -87,7 +87,7 @@ function initHamburger() {
 ───────────────────────────────────────── */
 function initTypewriter() {
   const el    = $("#typewriter");
-  const words = ["Full-Stack Developer", "ML & AI Enthusiast", "MERN Specialist", "CSE Student"];
+  const words = ["Full-Stack Developer", "MERN Specialist", "BSc.CSIT Student"];
   let wi = 0, ci = 0, deleting = false;
 
   function tick() {

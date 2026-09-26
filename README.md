@@ -1,11 +1,11 @@
 # 🚀 Rambilas Sah — Portfolio
 
-> Personal portfolio website of **Rambilas Sah** — B.E. CSE Student, Full-Stack Developer & AI Enthusiast.
+> Personal portfolio website of **Purnima Shah** — B.E. CSE Student, Full-Stack Developer & AI Enthusiast.
 
-[![Live Preview](https://img.shields.io/badge/Live-Portfolio-c9a84c?style=for-the-badge&logo=vercel)](https://github.com/Ram-sah19)
-[![GitHub](https://img.shields.io/badge/GitHub-Ram--sah19-181717?style=for-the-badge&logo=github)](https://github.com/Ram-sah19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rambilas_Sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rambilas-sah-3610192a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-ram.sah02__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ram.sah02_/)
+[![Live Preview](https://img.shields.io/badge/Live-Portfolio-c9a84c?style=for-the-badge&logo=vercel)](https://github.com/PURNIMASHAH12)
+[![GitHub](https://img.shields.io/badge/GitHub-Ram--sah19-181717?style=for-the-badge&logo=github)](https://github.com/PURNIMASHAH12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rambilas_Sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/purnima-shah-715a9536b/)
+[![Instagram](https://img.shields.io/badge/Instagram-purnimashah25-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/purnimashah25/)
 
 ---
 
@@ -30,7 +30,7 @@ ram/
 ├── style.css               # All styles — variables, layout, components
 ├── main.js                 # Three.js scenes + all interactivity
 ├── favicon.png             # Site favicon & navbar logo
-├── Rambilas_Sah_resume.pdf # Downloadable CV
+├── Purnima_Shah_resume.pdf # Downloadable CV
 └── README.md               # This file
 ```
 
@@ -107,12 +107,11 @@ cd portfolio
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [ram6070246@gmail.com](mailto:ram6070246@gmail.com) |
+| 📧 Email | [purnimashah369@gmail.com](mailto:purnimashah369@gmail.com) |
 | 📞 Phone | [+91 8807484703](tel:+918807484703) |
-| 💼 LinkedIn | [rambilas-sah-3610192a4](https://www.linkedin.com/in/rambilas-sah-3610192a4/) |
-| 🐙 GitHub | [Ram-sah19](https://github.com/Ram-sah19) |
-| 📸 Instagram | [ram.sah02_](https://www.instagram.com/ram.sah02_/) |
-| 📍 Location | Salem, Tamil Nadu 🇮🇳 |
+| 💼 LinkedIn | [purnima-shah-715a9536b](https://www.linkedin.com/in/purnima-shah-715a9536b/) |
+| 🐙 GitHub | [PURNIMASHAH12](https://github.com/PURNIMASHAH12) |
+| 📸 Instagram | [purnimashah25](https://www.instagram.com/purnimashah25/) |
 
 ---
 
@@ -122,4 +121,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Designed & Built with ♥ by <strong>Rambilas Sah</strong> · © 2026</p>
+<p align="center">Designed & Built with ♥ by <strong>Purnima Shah</strong> · © 2026</p>
