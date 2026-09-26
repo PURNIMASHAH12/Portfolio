@@ -374,12 +374,12 @@ function initOrbit() {
   if (!system) return;
 
   const skillData = [
-    { icon:"fa-brands fa-react",    title:"Frontend",  tags:["React.js","TypeScript","Tailwind CSS","HTML5","JavaScript"] },
-    { icon:"fa-brands fa-node-js",  title:"Backend",   tags:["Node.js","Express.js","REST API","MERN Stack","Passport.js"] },
-    { icon:"fa-solid fa-database",  title:"Database",  tags:["MongoDB","PostgreSQL","Supabase","Mongoose","SQL","MongoDB Atlas"] },
-    { icon:"fa-brands fa-git-alt",  title:"Tools",     tags:["Git","GitHub","VS Code","Postman","Hoppscotch"] },
-    { icon:"fa-solid fa-brain",     title:"AI / ML",   tags:["Machine Learning","Generative AI","TensorFlow","scikit-learn","Deep Learning"] },
-    { icon:"fa-solid fa-code",      title:"Languages", tags:["Python","JavaScript","TypeScript","Java","C"] },
+    { icon:"fa-brands fa-react",    title:"Frontend",  tags:["React.js","TypeScript","Tailwind CSS","JavaScript"] },
+    { icon:"fa-brands fa-node-js",  title:"Backend",   tags:["Node.js","Express.js","REST API","MERN Stack"] },
+    { icon:"fa-solid fa-database",  title:"Database",  tags:["MongoDB","Mongoose","SQL","MongoDB Atlas"] },
+    { icon:"fa-brands fa-git-alt",  title:"Tools",     tags:["Git","GitHub","VS Code","Postman"] },
+   // { icon:"fa-solid fa-brain",     title:"AI / ML",   tags:["Machine Learning","Generative AI","TensorFlow","scikit-learn","Deep Learning"] },
+    { icon:"fa-solid fa-code",      title:"Languages", tags:["JavaScript","TypeScript"] },
   ];
 
   const planets  = $$(".orbit-planet", system);
