@@ -1,124 +1,39 @@
-# 🚀 Rambilas Sah — Portfolio
+# 🚀 Purnima Shah — Portfolio
 
-> Personal portfolio website of **Purnima Shah** — B.E. CSE Student, Full-Stack Developer & AI Enthusiast.
+> Personal portfolio website of **Purnima Shah** — BSc CSIT Student & Full-Stack Developer.
 
-[![Live Preview](https://img.shields.io/badge/Live-Portfolio-c9a84c?style=for-the-badge&logo=vercel)](https://github.com/PURNIMASHAH12)
-[![GitHub](https://img.shields.io/badge/GitHub-Ram--sah19-181717?style=for-the-badge&logo=github)](https://github.com/PURNIMASHAH12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rambilas_Sah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/purnima-shah-715a9536b/)
+[![Live Portfolio](https://img.shields.io/badge/Live-Portfolio-c9a84c?style=for-the-badge&logo=googlechrome)](YOUR_LIVE_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-PURNIMASHAH12-181717?style=for-the-badge&logo=github)](https://github.com/PURNIMASHAH12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Purnima_Shah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/purnima-shah-715a9536b/)
 [![Instagram](https://img.shields.io/badge/Instagram-purnimashah25-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/purnimashah25/)
 
 ---
 
 ## ✨ Features
 
-- **3D Hero Scene** — Three.js torus knot + icosahedron + particle field with mouse parallax
-- **3D About Card** — Interactive tilt card with animated sphere & orbiting ring
-- **Tech Orbit** — Solar system-style skills visualization with hover sidebars
-- **Themed Project Scenes** — Each project card has a unique Three.js 3D scene
-- **Wave Contact Background** — Animated wave grid in the contact section
-- **Smooth Animations** — Delta-time based rendering, lerped speed transitions
-- **Responsive Design** — Mobile-first, works on all screen sizes
-- **Dark Theme** — Deep dark background with gold accent color system
+- **3D Hero Scene** — Interactive Three.js background with animated 3D objects and particles
+- **3D About Card** — Interactive profile card with tilt effects and animated elements
+- **Tech Orbit** — Interactive technology visualization for development skills
+- **Themed Project Scenes** — Individual 3D canvas scenes for featured projects
+- **Smooth Animations** — Interactive transitions and animated UI elements
+- **Responsive Design** — Optimized for desktop, tablet, and mobile screens
+- **Dark Theme** — Modern dark interface with gold accent colors
+- **Resume Download** — Direct access to my downloadable resume
+- **Contact Section** — Contact information and social media links
 
 ---
 
 ## 🗂️ Project Structure
 
-```
-ram/
-├── index.html              # Main HTML — all sections & structure
-├── style.css               # All styles — variables, layout, components
-├── main.js                 # Three.js scenes + all interactivity
-├── favicon.png             # Site favicon & navbar logo
-├── Purnima_Shah_resume.pdf # Downloadable CV
-└── README.md               # This file
-```
-
----
-
-## 🧩 Sections
-
-| # | Section | Description |
-|---|---------|-------------|
-| 01 | **Hero** | Animated 3D background, typewriter, CTA buttons |
-| 02 | **About** | 3D tilt card with stats, bio, tech tags, CV download |
-| 03 | **Skills** | Interactive solar system orbit with 6 tech planets |
-| 04 | **Projects** | 4 featured projects with themed 3D canvas previews |
-| 05 | **Open Source** | Rocket.Chat contribution — Giving Back section |
-| 06 | **Contact** | Contact form, social links, wave grid background |
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| Structure | HTML5 |
-| Styling | CSS3 — Custom Properties, Grid, Flexbox, Glassmorphism |
-| Interactivity | Vanilla JavaScript (ES6+) |
-| 3D Graphics | [Three.js r134](https://threejs.org/) |
-| Icons | [Font Awesome 6.5](https://fontawesome.com/) |
-| Fonts | [Space Grotesk + Space Mono](https://fonts.google.com/) |
-
----
-
-## 🎨 Featured Projects
-
-### 🏆 GRIDocK — Traffic Demand Prediction (Flipkart Grid 6.0 Semi-Finalist)
-Flipkart Grid 6.0 hackathon project breaking through to the **Semi-Final Round out of 30,000+ registrations**. Features a triple ensemble machine learning pipeline (LightGBM + XGBoost + CatBoost) with 5-fold cross-validation and geohash engineering.
-`Python` `LightGBM` `XGBoost` `CatBoost` `scikit-learn` `Pandas`
-
-### 🩸 Sanguis-AI (Blood Donation System)
-AI-powered emergency coordinator matching donors to recipients using blood type compatibility and real-time proximity. Recognized at **Samitha Hackathon**.
-`Python` `Machine Learning` `REST APIs`
-
-### 🏥 Telemedicine Platform
-End-to-end healthcare system with patient EMR, appointment scheduling, and AI-assisted prescriptions. **Nasscom Finalist**.
-`React.js` `Node.js` `Supabase` `AIML`
-
-### 🌌 Nebula — E-Commerce Platform
-Ultra-premium full-stack e-commerce platform for laptops & electronics built with the Obsidian Flux design system. Features JWT auth, PostgreSQL database, React frontend, and Zustand state.
-`Java 17` `Spring Boot` `React` `PostgreSQL` `Tailwind CSS` `Zustand`
-
-### 🏠 Holiday Hideout
-Airbnb-style booking platform with role-based auth, property listings, and AI-integrated chatbot for support.
-`MERN Stack` `REST APIs` `AI Chatbot`
-
-
----
-
-## 🚀 Getting Started
-
-No build tools required — it's pure HTML/CSS/JS.
-
-```bash
-# Clone the repo
-git clone https://github.com/Ram-sah19/portfolio.git
-
-# Open in browser
-cd portfolio
-# Just open index.html in your browser
-# Or use Live Server in VS Code
-```
-
----
-
-## 📬 Contact
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [purnimashah369@gmail.com](mailto:purnimashah369@gmail.com) |
-| 📞 Phone | [+91 8807484703](tel:+918807484703) |
-| 💼 LinkedIn | [purnima-shah-715a9536b](https://www.linkedin.com/in/purnima-shah-715a9536b/) |
-| 🐙 GitHub | [PURNIMASHAH12](https://github.com/PURNIMASHAH12) |
-| 📸 Instagram | [purnimashah25](https://www.instagram.com/purnimashah25/) |
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">Designed & Built with ♥ by <strong>Purnima Shah</strong> · © 2026</p>
+```text
+Portfolio/
+├── index.html              # Main HTML — portfolio structure & sections
+├── style.css               # CSS — layout, animations & responsive design
+├── main.js                 # JavaScript — Three.js scenes & interactivity
+├── favicon.png             # Website favicon
+├── profile.jpg             # Profile image
+├── success.html            # Contact form success page
+├── Purnima_Shah_resume.pdf # Downloadable resume
+├── netlify.toml            # Netlify configuration
+├── .gitignore              # Git ignore configuration
+└── README.md               # Project documentation
